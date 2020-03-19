@@ -15,4 +15,4 @@ rtsp://cloud.easydarwin.org:554/12345.sdp
 
 
 ## 体验
-apk下载链接： https://www.pgyer.com/hqR8
+apk下载链接： https://www.pgyer.com/hqR8  下载密码:123456
